@@ -1,5 +1,5 @@
 export const MATERIAL_RATES = {
-  shutter: { deco: 2700, premium: 3400, luxury: 4600 },
+  shutter: { deco: 2200, premium: 3400, luxury: 4600 },
   carcass: { deco: 1350, premium: 1500, luxury: 1800 },
   internal: { deco: 350, premium: 550, luxury: 800 },
   hardware: { deco: 1000, premium: 2000, luxury: 3500 },
